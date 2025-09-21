@@ -7,7 +7,7 @@
             "step": "template_pattern",
             "templates": [
                 {
-                    "text": "✨💠 حساب للبدل  او بيع 💠✨\nهايبر ٥٣ يصعد ٧٠ بلدليل🟡\nرانك: ٦٩🏅\nعدد الاكسات: ٤ ❌\n\nالدعم ⚔️\nأزرق: ١٦٠ 🔵\nأحمر: ١٦٧ 🔴\nأخضر: ١٦٠ 🟢\n\nميدل ماكس: ٢٣٠ 🎖️\nما أقبل حسابين 🚫\nالربط نضيف 🔗",
+                    "text": "اقبل بس باونتي فقط اعرض شعندك خاص",
                     "media_path": "media/6179717958_broadcast_1.jpg"
                 }
             ],
@@ -18,7 +18,7 @@
             "last_msg_id": []
         },
         "broadcast_status": {
-            "is_broadcasting": false,
+            "is_broadcasting": true,
             "broadcast_type": "groups",
             "sleep_time": 120,
             "template_pattern": "1",
@@ -27,12 +27,12 @@
             ],
             "templates": [
                 {
-                    "text": "✨💠 حساب للبدل  او بيع 💠✨\nهايبر ٥٣ يصعد ٧٠ بلدليل🟡\nرانك: ٦٩🏅\nعدد الاكسات: ٤ ❌\n\nالدعم ⚔️\nأزرق: ١٦٠ 🔵\nأحمر: ١٦٧ 🔴\nأخضر: ١٦٠ 🟢\n\nميدل ماكس: ٢٣٠ 🎖️\nما أقبل حسابين 🚫\nالربط نضيف 🔗",
+                    "text": "اقبل بس باونتي فقط اعرض شعندك خاص",
                     "media_path": "media/6179717958_broadcast_1.jpg"
                 }
             ],
             "group_rotation": {
-                "1619020516": 96
+                "1619020516": 151
             }
         }
     }
