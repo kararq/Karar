@@ -7,11 +7,11 @@
             "step": "template_pattern",
             "templates": [
                 {
-                    "text": "للبدل فقط عينك عل احجار\nسولو اعلام مو ملموس اكسات ميتا \n\nفقط بدل ما ابيع تواصل خاص",
+                    "text": "للبدل فقط عينك عل احجار\nسولو اعلام مو ملموس اكسات ميتا \n\nفقط بدل ما ابيع تواصل خاص \n\nمتوفر سورس نشر و٢٨ امر خاص بيك كله ب 1 اسيا 💁🏻💁🏻",
                     "media_path": "media/6179717958_broadcast_1.jpg"
                 }
             ],
-            "interval": 120,
+            "interval": 60,
             "groups": [
                 "channel:1619020516"
             ],
@@ -20,19 +20,19 @@
         "broadcast_status": {
             "is_broadcasting": true,
             "broadcast_type": "groups",
-            "sleep_time": 120,
+            "sleep_time": 60,
             "template_pattern": "1",
             "groups": [
                 "channel:1619020516"
             ],
             "templates": [
                 {
-                    "text": "للبدل فقط عينك عل احجار\nسولو اعلام مو ملموس اكسات ميتا \n\nفقط بدل ما ابيع تواصل خاص",
+                    "text": "للبدل فقط عينك عل احجار\nسولو اعلام مو ملموس اكسات ميتا \n\nفقط بدل ما ابيع تواصل خاص \n\nمتوفر سورس نشر و٢٨ امر خاص بيك كله ب 1 اسيا 💁🏻💁🏻",
                     "media_path": "media/6179717958_broadcast_1.jpg"
                 }
             ],
             "group_rotation": {
-                "1619020516": 113
+                "1619020516": 119
             }
         }
     }
