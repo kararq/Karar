@@ -11,7 +11,7 @@
                     "media_path": "media/6179717958_broadcast_1.jpg"
                 }
             ],
-            "interval": 60,
+            "interval": 50,
             "groups": [
                 "channel:1619020516"
             ],
@@ -20,7 +20,7 @@
         "broadcast_status": {
             "is_broadcasting": true,
             "broadcast_type": "groups",
-            "sleep_time": 60,
+            "sleep_time": 50,
             "template_pattern": "1",
             "groups": [
                 "channel:1619020516"
@@ -32,7 +32,7 @@
                 }
             ],
             "group_rotation": {
-                "1619020516": 135
+                "1619020516": 304
             }
         }
     }
